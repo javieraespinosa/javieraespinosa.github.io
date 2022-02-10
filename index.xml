@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Javier A. Espinosa-Oviedo</title><link>https://espinosa-oviedo.com/</link><atom:link href="https://espinosa-oviedo.com/index.xml" rel="self" type="application/rss+xml"/><description>Javier A. Espinosa-Oviedo</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://espinosa-oviedo.com/media/icon_hu99630f22439669c0c00fc205d486f834_12336_512x512_fill_lanczos_center_2.png</url><title>Javier A. Espinosa-Oviedo</title><link>https://espinosa-oviedo.com/</link></image><item><title>Publications</title><link>https://espinosa-oviedo.com/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/publications/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Javier A. Espinosa-Oviedo</title><link>https://www.espinosa-oviedo.com/</link><atom:link href="https://www.espinosa-oviedo.com/index.xml" rel="self" type="application/rss+xml"/><description>Javier A. Espinosa-Oviedo</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://www.espinosa-oviedo.com/media/icon_hu99630f22439669c0c00fc205d486f834_12336_512x512_fill_lanczos_center_2.png</url><title>Javier A. Espinosa-Oviedo</title><link>https://www.espinosa-oviedo.com/</link></image><item><title>Publications</title><link>https://www.espinosa-oviedo.com/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/publications/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://scholar.google.com/citations?user=RkXsr4YAAAAJ&amp;amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dblp.org/pid/11/1137" target="_blank" rel="noopener">DBLP&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.researchgate.net/profile/Javier_Espinosa-Oviedo" target="_blank" rel="noopener">ResearchGate&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://orcid.org/0000-0002-4015-195X" target="_blank" rel="noopener">ORCID&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>News</title><link>https://espinosa-oviedo.com/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/news/</guid><description>&lt;table>
+&lt;/ul></description></item><item><title>News</title><link>https://www.espinosa-oviedo.com/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/news/</guid><description>&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>&lt;/th>
@@ -48,80 +48,305 @@
 &lt;td>New website&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Teaching</title><link>https://espinosa-oviedo.com/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/teaching/</guid><description>&lt;h3 id="big-data-management-processing--analytics">Big Data Management, Processing &amp;amp; Analytics&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="http://vargas-solar.com/bigdata-visualisation/" target="_blank" rel="noopener">Big Data Analytics &amp;amp; Visualization&lt;/a>, PRACE-BSC-2017, UdelaR-2016&lt;/li>
-&lt;li>&lt;a href="http://vargas-solar.com/big-data-analytics" target="_blank" rel="noopener">Big Data Analytics&lt;/a>, UdelaR-2015&lt;/li>
-&lt;li>&lt;a href="https://espinosa-oviedo.com/big-data-visualization" target="_blank" rel="noopener">Big Data Visualization: Tools and Techniques&lt;/a>, PRACE-BSC-2016&lt;/li>
-&lt;li>&lt;a href="http://vargas-solar.com/cloud-data-management/" target="_blank" rel="noopener">Cloud Data Management&lt;/a>, ENSIMAG-2013&lt;/li>
-&lt;li>&lt;a href="http://vargas-solar.com/map-reduce-fest/" target="_blank" rel="noopener">Map-Reduce Fest&lt;/a>, ENSIMAG-2013&lt;/li>
-&lt;/ul>
-&lt;h3 id="advanced-web-programming">Advanced Web Programming&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://espinosa-oviedo.com/web-programming-and-services/" target="_blank" rel="noopener">Mobile, Network and Web Services programming&lt;/a>, Grenoble-IUT2-2015&lt;/li>
-&lt;li>&lt;a href="https://espinosa-oviedo.com/web-programming/" target="_blank" rel="noopener">Web Programming: Languages and Technologies&lt;/a>, UPMF-2014&lt;/li>
-&lt;li>&lt;a href="https://espinosa-oviedo.com/digital-multimedia" target="_blank" rel="noopener">Digital Multimedia&lt;/a>, UPMF-2013&lt;/li>
-&lt;/ul>
-&lt;h3 id="tutorials">Tutorials&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="http://www.isum2018.udg.mx/evento/taller-3-data-processing-and-querying-scale-using-big-data-analytics-stacks" target="_blank" rel="noopener">Data Processing and Querying at Scale using Big Data Analytics Stacks&lt;/a>, Int. Supercomputing Conference in Mexico (ISUM'18)&lt;/li>
-&lt;li>&lt;a href="https://espinosa-oviedo.com/big-data-visualization" target="_blank" rel="noopener">Big Data Visualization&lt;/a>, Barcelona Supercomputing Centre, Spain, 2018&lt;/li>
-&lt;li>&lt;a href="https://github.com/javieraespinosa/dxlab-smart-cities" target="_blank" rel="noopener">Visualizing Big Urban Data&lt;/a>, 2nd French-Brazilian Summer School on Big Data &amp;amp; Smart Cities, IFRN, Brazil, 2017&lt;/li>
-&lt;/ul></description></item><item><title>Students</title><link>https://espinosa-oviedo.com/students/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/students/</guid><description>&lt;h3 id="phd-candidates">PhD candidates&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Mehrdad Farokhnejad&lt;/strong>. &lt;code>Human-guided exploration of urban datasets&lt;/code>. Université Grenoble-Alpes (with G. Vargas-Solar, CNRS)&lt;/li>
-&lt;/ul>
-&lt;h3 id="master">Master&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Hugo Santillan Villicaña&lt;/strong>. &lt;code>Integration of medical data in multi-cloud environments guided by SLA&lt;/code>. Universidad Autónoma de Guadalajara, 2020 (with G. Vargas-Solar)&lt;/li>
-&lt;li>&lt;strong>Iris Ruysch&lt;/strong>. &lt;code>Paving the way for autonomous cars: Current projects and challenges in the Netherland&lt;/code>. TU Delft, 2019 (with A. Ersoy)&lt;/li>
-&lt;li>&lt;strong>Maysaa Khalil&lt;/strong>. &lt;code>GREENHOME: Househod energy consumption &amp;amp; CO2 footprint metering Environment&lt;/code>. ENSE3-Grenoble INP, 2019 (with G. Vargas-Solar). &lt;a href="https://github.com/javieraespinosa/Triple-A-household-energy-analysis/blob/master/GreenHome.pdf" target="_blank" rel="noopener">poster&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Irving Hernandez Gallegos&lt;/strong>. &lt;code>Data collections curation and exploration with CURAR&lt;/code>. Universidad Autónoma de Guadalajara, 2018 (with G. Vargas-Solar)&lt;/li>
-&lt;li>&lt;strong>Santiago Ruíz Angulo&lt;/strong>. &lt;code>Analysis of climate change in LATAM by processing historical news papers&lt;/code>. Universidad Autónoma de Guadalajara, 2017 (with G. Vargas-Solar). &lt;a href="https://github.com/javieraespinosa/ipgh-lab" target="_blank" rel="noopener">github&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Enrique Arriaga Varela&lt;/strong>. &lt;code>Discovering patterns from streams for supporting real-time decision making during neuroscience experiments&lt;/code>. Universidad Autónoma de Guadalajara, 2017, (with G. Vargas-Solar). &lt;a href="https://github.com/javieraespinosa/hstream" target="_blank" rel="noopener">github&lt;/a>, &lt;a href="https://drive.google.com/file/d/104i1H2Wh7QgpyBlrOxqDYY_fZZ9OpgGn/view?usp=sharing" target="_blank" rel="noopener">poster&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Pedropablo Lopez Amaya&lt;/strong>. &lt;code>Collection and storage of transport data&lt;/code>. Université Claude Bernard Lyon 1, 2015 (with F. Da Silva, P. Ghodous, G. Vargas-Solar)&lt;/li>
-&lt;li>&lt;strong>Xiaohu Tang&lt;/strong>. &lt;code>TigerFlow: a smart shop floor simulator for the industry 4.0&lt;/code>. University of Nanjing, 2016, (with G. Vargas-Solar). &lt;a href="https://github.com/javieraespinosa/TigerFlow" target="_blank" rel="noopener">github&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="undergraduates--engineers">Undergraduates &amp;amp; Engineers&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Clément Quéré&lt;/strong>. &lt;code>Analyzing gender gap in STEM&lt;/code>. IUT Lannion, 2019 (with K. Gibert, G. Vargas-Solar)&lt;/li>
-&lt;li>&lt;strong>Hélène Besançon&lt;/strong> + &lt;strong>Sylvain Bouvet&lt;/strong> + &lt;strong>Cléa Brossard&lt;/strong> + &lt;strong>Thibaut Fourrier&lt;/strong> + &lt;strong>Océane de Loitière&lt;/strong> + &lt;strong>Bastien Drocourt&lt;/strong> + &lt;strong>Manon Lucas&lt;/strong>. &lt;code>Collection, storage and exploration of online data produced during the 2014 European Elections&lt;/code>. Projet de spécialité, ENSIMAG-Grenoble INP, 2014 (with G. Vargas-Solar)&lt;/li>
-&lt;li>&lt;strong>Braulio Vaello Torregrosa&lt;/strong>. &lt;code>Building a mashup environment for integrating data services&lt;/code>. ENSIMAG-Grenoble INP, 2011 (with G. Vargas-Solar)&lt;/li>
-&lt;/ul></description></item><item><title>Service</title><link>https://espinosa-oviedo.com/service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/service/</guid><description>&lt;h3 id="chair--organizer">Chair &amp;amp; Organizer&lt;/h3>
+&lt;/table></description></item><item><title>Teaching</title><link>https://www.espinosa-oviedo.com/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/teaching/</guid><description>&lt;h3 id="big-data-management-processing--analytics">Big Data Management, Processing &amp;amp; Analytics&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
 &lt;th>&lt;/th>
 &lt;th>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>BDA MDD Summer School (co-organizer)&lt;/td>
+&lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;td>&lt;a href="http://vargas-solar.com/bigdata-visualisation/" target="_blank" rel="noopener">Big Data Analytics &amp;amp; Visualization&lt;/a>&lt;/td>
+&lt;td>PRACE-BSC&lt;/td>
+&lt;td>Spain&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2016&lt;/code>&lt;/td>
+&lt;td>&lt;a href="https://espinosa-oviedo.com/big-data-visualization" target="_blank" rel="noopener">Big Data Visualization: Tools &amp;amp; Techniques&lt;/a>&lt;/td>
+&lt;td>PRACE-BSC&lt;/td>
+&lt;td>Spain&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2016&lt;/code>&lt;/td>
+&lt;td>&lt;a href="http://vargas-solar.com/bigdata-visualisation/" target="_blank" rel="noopener">Big Data Analytics &amp;amp; Visualization&lt;/a>&lt;/td>
+&lt;td>UdelaR&lt;/td>
+&lt;td>Uruguay&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2015&lt;/code>&lt;/td>
+&lt;td>&lt;a href="http://vargas-solar.com/big-data-analytics" target="_blank" rel="noopener">Big Data Analytics&lt;/a>&lt;/td>
+&lt;td>UdelaR&lt;/td>
+&lt;td>Uruguay&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2013&lt;/code>&lt;/td>
+&lt;td>&lt;a href="http://vargas-solar.com/cloud-data-management/" target="_blank" rel="noopener">Cloud Data Management&lt;/a>&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2013&lt;/code>&lt;/td>
+&lt;td>&lt;a href="http://vargas-solar.com/map-reduce-fest/" target="_blank" rel="noopener">Map-Reduce Fest&lt;/a>&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="advanced-web-programming">Advanced Web Programming&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>2015&lt;/code>&lt;/td>
+&lt;td>&lt;a href="https://espinosa-oviedo.com/web-programming-and-services/" target="_blank" rel="noopener">Mobile, Network and Web Services programming&lt;/a>&lt;/td>
+&lt;td>Grenoble-IUT2&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2014&lt;/code>&lt;/td>
+&lt;td>&lt;a href="https://espinosa-oviedo.com/web-programming/" target="_blank" rel="noopener">Web Programming: Languages and Technologies&lt;/a>&lt;/td>
+&lt;td>UPMF&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2013&lt;/code>&lt;/td>
+&lt;td>&lt;a href="https://espinosa-oviedo.com/digital-multimedia" target="_blank" rel="noopener">Digital Multimedia&lt;/a>&lt;/td>
+&lt;td>UPMF&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="tutorials">Tutorials&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>2018&lt;/code>&lt;/td>
+&lt;td>&lt;a href="http://www.isum2018.udg.mx/evento/taller-3-data-processing-and-querying-scale-using-big-data-analytics-stacks" target="_blank" rel="noopener">Data Processing and Querying at Scale using Big Data Analytics Stacks&lt;/a>, Int. Supercomputing Conference in Mexico (ISUM'18)&lt;/td>
+&lt;td>Mexico&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2018&lt;/code>&lt;/td>
+&lt;td>&lt;a href="https://espinosa-oviedo.com/big-data-visualization" target="_blank" rel="noopener">Big Data Visualization&lt;/a>, Barcelona Supercomputing Centre&lt;/td>
+&lt;td>Spain&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;td>&lt;a href="https://github.com/javieraespinosa/dxlab-smart-cities" target="_blank" rel="noopener">Visualizing Big Urban Data&lt;/a>, 2nd French-Brazilian Summer School on Big Data &amp;amp; Smart Cities, IFRN&lt;/td>
+&lt;td>Brazil&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Students</title><link>https://www.espinosa-oviedo.com/students/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/students/</guid><description>&lt;h3 id="phd-candidates">PhD candidates&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>2021&lt;/code>&lt;/td>
+&lt;td>Mehrdad Farokhnejad&lt;/td>
+&lt;td>U. Grenoble-Alpes&lt;/td>
+&lt;td> France&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="masters">Masters&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>2020&lt;/code>&lt;/td>
+&lt;td>Hugo Santillan Villicaña&lt;/td>
+&lt;td>U. Autonoma de Guadalajara&lt;/td>
+&lt;td>Mexico&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2019&lt;/code>&lt;/td>
+&lt;td>Iris Ruysch&lt;/td>
+&lt;td>TU Delft&lt;/td>
+&lt;td>The Netherlands&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2019&lt;/code>&lt;/td>
+&lt;td>Maysaa Khalil&lt;/td>
+&lt;td>ENSE3&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2018&lt;/code>&lt;/td>
+&lt;td>Irving Hernandez Gallegos&lt;/td>
+&lt;td>U. Autonoma de Guadalajara&lt;/td>
+&lt;td>Mexico&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;td>Santiago Ruíz Angulo&lt;/td>
+&lt;td>U. Autonoma de Guadalajara&lt;/td>
+&lt;td>Mexico&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;td>Enrique Arriaga Varela&lt;/td>
+&lt;td>U. Autonoma de Guadalajara&lt;/td>
+&lt;td>Mexico&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2016&lt;/code>&lt;/td>
+&lt;td>Xiaohu Tang&lt;/td>
+&lt;td>U. of Nanjing&lt;/td>
+&lt;td>China&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2015&lt;/code>&lt;/td>
+&lt;td>Pedropablo Lopez Amaya&lt;/td>
+&lt;td>U. Lyon 1&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="engineers--undergrads">Engineers &amp;amp; Undergrads&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;code>2019&lt;/code>&lt;/td>
+&lt;td>Clément Quéré&lt;/td>
+&lt;td>IUT Lannion&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2014&lt;/code>&lt;/td>
+&lt;td>Hélène Besançon&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2014&lt;/code>&lt;/td>
+&lt;td>Sylvain Bouvet&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2014&lt;/code>&lt;/td>
+&lt;td>Cléa Brossard&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2014&lt;/code>&lt;/td>
+&lt;td>Thibaut Fourrier&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2014&lt;/code>&lt;/td>
+&lt;td>Océane de Loitière&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2014&lt;/code>&lt;/td>
+&lt;td>Bastien Drocourt&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2014&lt;/code>&lt;/td>
+&lt;td>Manon Lucas&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;code>2011&lt;/code>&lt;/td>
+&lt;td>Braulio Vaello Torregrosa&lt;/td>
+&lt;td>ENSIMAG&lt;/td>
+&lt;td>France&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Service</title><link>https://www.espinosa-oviedo.com/service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/service/</guid><description>&lt;h3 id="chair--organizer">Chair &amp;amp; Organizer&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>BDA MDD summer school&lt;/td>
+&lt;td>organizer&lt;/td>
 &lt;td>&lt;code>2020, 2018&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>LDE BOLD Cities Talks (organizer &amp;amp; chair)&lt;/td>
+&lt;td>LDE BOLD Cities Talks&lt;/td>
+&lt;td>organizer &amp;amp; chair&lt;/td>
 &lt;td>&lt;code>2019, 2018&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>BSC Doctoral Symposium (session chair)&lt;/td>
-&lt;td>&lt;code>2017&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Collaborative Workshop UAG-UdeG and BSC (organizer &amp;amp; chair)&lt;/td>
-&lt;td>&lt;code>2017&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>FR-BR School on Big Data and Smart Cities (co-organizer)&lt;/td>
+&lt;td>FR-BR School on Big Data and Smart Cities&lt;/td>
+&lt;td>organizer&lt;/td>
 &lt;td>&lt;code>2017, 2015&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>EDBT Summer School (co-organizer)&lt;/td>
+&lt;td>BSC &amp;amp; UAG-UdeG workshop&lt;/td>
+&lt;td>organizer &amp;amp; chair&lt;/td>
+&lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>BSC Doctoral symposium&lt;/td>
+&lt;td>chair&lt;/td>
+&lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>EDBT summer school&lt;/td>
+&lt;td>organizer&lt;/td>
 &lt;td>&lt;code>2013&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>LIG-Sinergy Web Service seminar (organizer)&lt;/td>
+&lt;td>LIG-Sinergy Web Service seminar&lt;/td>
+&lt;td>organizer&lt;/td>
 &lt;td>&lt;code>2010&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
@@ -132,43 +357,53 @@
 &lt;tr>
 &lt;th>&lt;/th>
 &lt;th>&lt;/th>
+&lt;th>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>IEEE CLOUD conference&lt;/td>
+&lt;td>IEEE CLOUD&lt;/td>
+&lt;td>conference&lt;/td>
 &lt;td>&lt;code>2022, 2021&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>ADBIS conference&lt;/td>
-&lt;td>&lt;code>2022&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>DS4EIW workshop&lt;/td>
-&lt;td>&lt;code>2021&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>BECS workshop&lt;/td>
-&lt;td>&lt;code>2021&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>AICCSA conference&lt;/td>
-&lt;td>&lt;code>2020&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>EDBT DARLI-AP workshop&lt;/td>
+&lt;td>DARLI-AP @ EDBT&lt;/td>
+&lt;td>workshop&lt;/td>
 &lt;td>&lt;code>2022, 2021, 2020, 2019&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>ICSOC STRAPS workshop&lt;/td>
+&lt;td>ADBIS&lt;/td>
+&lt;td>conference&lt;/td>
+&lt;td>&lt;code>2022&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>STRAPS @ ICSOC&lt;/td>
+&lt;td>workshop&lt;/td>
 &lt;td>&lt;code>2021, 2020&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>AICCSA DSC workshop&lt;/td>
+&lt;td>DS4EIW&lt;/td>
+&lt;td>workshop&lt;/td>
+&lt;td>&lt;code>2021&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>BECS&lt;/td>
+&lt;td>workshop&lt;/td>
+&lt;td>&lt;code>2021&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AICCSA&lt;/td>
+&lt;td>conference&lt;/td>
+&lt;td>&lt;code>2020&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CoopIS&lt;/td>
+&lt;td>conference&lt;/td>
 &lt;td>&lt;code>2019&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>CoopIS conference&lt;/td>
+&lt;td>DSC @ AICCSA&lt;/td>
+&lt;td>workshop&lt;/td>
 &lt;td>&lt;code>2019&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
@@ -177,69 +412,95 @@
 &lt;table>
 &lt;thead>
 &lt;tr>
+&lt;th>Journal&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Future Generation Computer Systems&lt;/td>
+&lt;td>&lt;code>2020, 2019&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Computer Networks&lt;/td>
+&lt;td>&lt;code>2020&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Transactions on Emerging Topics in Computing&lt;/td>
+&lt;td>&lt;code>2019&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Information Systems Frontiers&lt;/td>
+&lt;td>&lt;code>2019&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Computing&lt;/td>
+&lt;td>&lt;code>2019, 2018&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Computación y Sistemas&lt;/td>
+&lt;td>&lt;code>2018, 2016&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Data in Brief&lt;/td>
+&lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Conference / Workshop&lt;/th>
+&lt;th>&lt;/th>
 &lt;th>&lt;/th>
 &lt;th>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Future Generation Computer Systems journal&lt;/td>
-&lt;td>&lt;code>2020, 2019&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Computer Networks journal&lt;/td>
-&lt;td>&lt;code>2020&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Transactions on Emerging Topics in Computing journal&lt;/td>
-&lt;td>&lt;code>2019&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Information Systems Frontiers journal&lt;/td>
-&lt;td>&lt;code>2019&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Computing journal&lt;/td>
-&lt;td>&lt;code>2019, 2018&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Computación y Sistemas journal&lt;/td>
-&lt;td>&lt;code>2018, 2016&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Data in Brief journal&lt;/td>
-&lt;td>&lt;code>2017&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>AICCSA conference&lt;/td>
+&lt;td>AICCSA&lt;/td>
+&lt;td>conference&lt;/td>
 &lt;td>&lt;code>2019, 2016&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>ADBIS DaS workshop&lt;/td>
+&lt;td>DaS @ ADBIS&lt;/td>
+&lt;td>workshop&lt;/td>
 &lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>ICCS conference&lt;/td>
+&lt;td>ICCS&lt;/td>
+&lt;td>conference&lt;/td>
 &lt;td>&lt;code>2017&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>MICAI conference&lt;/td>
+&lt;td>MICAI&lt;/td>
+&lt;td>conference&lt;/td>
 &lt;td>&lt;code>2016&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>IKC KEYSTONE conference&lt;/td>
+&lt;td>IKC KEYSTONE&lt;/td>
+&lt;td>conference&lt;/td>
 &lt;td>&lt;code>2016&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>ENC conference&lt;/td>
+&lt;td>ENC&lt;/td>
+&lt;td>conference&lt;/td>
 &lt;td>&lt;code>2010, 2009&lt;/code>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Contact</title><link>https://espinosa-oviedo.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/contact/</guid><description>&lt;/br>
-&lt;p>&lt;code>javi**.espino**-oviedo@univ-lyon2.fr&lt;/code>&lt;/p>
-&lt;p>&lt;strong>ERIC Laboratory&lt;/strong>&lt;br>
-5 avenue Pierre Mendès France, 69676 Bron Cedex&lt;br>
-France&lt;/p></description></item><item><title>Example Talk</title><link>https://espinosa-oviedo.com/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;/table></description></item><item><title>Contact</title><link>https://www.espinosa-oviedo.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/contact/</guid><description>&lt;/br>
+&lt;p>&lt;code>javi**.espino**-oviedo@cpe.fr&lt;/code>&lt;/p>
+&lt;p>&lt;strong>CPE Lyon&lt;/strong>&lt;br>
+LyonTech-La DOUA&lt;br>
+43 blvd. 11 Novembre 1918&lt;br>
+69616 Villeurbanne &lt;br>
+France&lt;/p></description></item><item><title>Example Talk</title><link>https://www.espinosa-oviedo.com/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -250,11 +511,61 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Example Project</title><link>https://espinosa-oviedo.com/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/example/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
-&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
-&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
-&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
-&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title/><link>https://espinosa-oviedo.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/admin/config.yml</guid><description/></item><item><title/><link>https://espinosa-oviedo.com/h/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/h/</guid><description/></item><item><title/><link>https://espinosa-oviedo.com/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/home/</guid><description/></item><item><title/><link>https://espinosa-oviedo.com/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/projects/</guid><description/></item><item><title>`ANR` LIFRANUM</title><link>https://espinosa-oviedo.com/project/lifranum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/lifranum/</guid><description/></item><item><title>`ECOS–NORD` ORCHESTRA</title><link>https://espinosa-oviedo.com/project/orchestra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/orchestra/</guid><description/></item><item><title>`EU-FP7-IRSES` CASES</title><link>https://espinosa-oviedo.com/project/cases/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/cases/</guid><description/></item><item><title>`EU-FP7-IRSES` S2EUNET</title><link>https://espinosa-oviedo.com/project/s2eunet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/s2eunet/</guid><description/></item><item><title>`EU-INTERREG` TRIPLE-A</title><link>https://espinosa-oviedo.com/project/triple-a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/triple-a/</guid><description/></item><item><title>`Grenoble INP BQR` RED-SHINE</title><link>https://espinosa-oviedo.com/project/redshine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/redshine/</guid><description/></item><item><title>`IPGH-PAT` IPGH</title><link>https://espinosa-oviedo.com/project/ipgh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/ipgh/</guid><description/></item><item><title>`LDE-BOLD-CITIES` SHARED DATA</title><link>https://espinosa-oviedo.com/project/shared/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/shared/</guid><description/></item><item><title>`LINKSIUM-LIG` CLOUDING-THINGS</title><link>https://espinosa-oviedo.com/project/clouding-things/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/clouding-things/</guid><description/></item><item><title>`Microsoft Research LACCIR` E-CLOUDSS</title><link>https://espinosa-oviedo.com/project/ecloudss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/ecloudss/</guid><description/></item><item><title>`MS-BSC-LAFMIA` CONCERNS</title><link>https://espinosa-oviedo.com/project/concerns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/concerns/</guid><description/></item><item><title>`PACK-AMBITION Rhône-Alpes` SUMMIT:fire:</title><link>https://espinosa-oviedo.com/project/summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/summit/</guid><description/></item><item><title>`PEPS-CNRS` POLIWEB</title><link>https://espinosa-oviedo.com/project/poliweb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/poliweb/</guid><description/></item><item><title>`STiC-AMSUD` CLEVER</title><link>https://espinosa-oviedo.com/project/clever/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/clever/</guid><description/></item><item><title>`STiC-AMSUD` SWANS</title><link>https://espinosa-oviedo.com/project/swans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/project/swans/</guid><description/></item><item><title>Recommendation Letters</title><link>https://espinosa-oviedo.com/recommendations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://espinosa-oviedo.com/recommendations/</guid><description>&lt;ul>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://www.espinosa-oviedo.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;figure id="figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title/><link>https://www.espinosa-oviedo.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/admin/config.yml</guid><description/></item><item><title/><link>https://www.espinosa-oviedo.com/h/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/h/</guid><description/></item><item><title/><link>https://www.espinosa-oviedo.com/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/home/</guid><description/></item><item><title/><link>https://www.espinosa-oviedo.com/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/projects/</guid><description/></item><item><title>`ANR` LIFRANUM</title><link>https://www.espinosa-oviedo.com/project/lifranum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/lifranum/</guid><description/></item><item><title>`ECOS–NORD` ORCHESTRA</title><link>https://www.espinosa-oviedo.com/project/orchestra/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/orchestra/</guid><description/></item><item><title>`EU-FP7-IRSES` CASES</title><link>https://www.espinosa-oviedo.com/project/cases/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/cases/</guid><description/></item><item><title>`EU-FP7-IRSES` S2EUNET</title><link>https://www.espinosa-oviedo.com/project/s2eunet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/s2eunet/</guid><description/></item><item><title>`EU-INTERREG` TRIPLE-A</title><link>https://www.espinosa-oviedo.com/project/triple-a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/triple-a/</guid><description/></item><item><title>`Grenoble INP BQR` RED-SHINE</title><link>https://www.espinosa-oviedo.com/project/redshine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/redshine/</guid><description/></item><item><title>`IPGH-PAT` IPGH</title><link>https://www.espinosa-oviedo.com/project/ipgh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/ipgh/</guid><description/></item><item><title>`LDE-BOLD-CITIES` SHARED DATA</title><link>https://www.espinosa-oviedo.com/project/shared/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/shared/</guid><description/></item><item><title>`LINKSIUM-LIG` CLOUDING-THINGS</title><link>https://www.espinosa-oviedo.com/project/clouding-things/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/clouding-things/</guid><description/></item><item><title>`Microsoft Research LACCIR` E-CLOUDSS</title><link>https://www.espinosa-oviedo.com/project/ecloudss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/ecloudss/</guid><description/></item><item><title>`MS-BSC-LAFMIA` CONCERNS</title><link>https://www.espinosa-oviedo.com/project/concerns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/concerns/</guid><description/></item><item><title>`PACK-AMBITION Rhône-Alpes` SUMMIT:fire:</title><link>https://www.espinosa-oviedo.com/project/summit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/summit/</guid><description/></item><item><title>`PEPS-CNRS` POLIWEB</title><link>https://www.espinosa-oviedo.com/project/poliweb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/poliweb/</guid><description/></item><item><title>`STiC-AMSUD` CLEVER</title><link>https://www.espinosa-oviedo.com/project/clever/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/clever/</guid><description/></item><item><title>`STiC-AMSUD` SWANS</title><link>https://www.espinosa-oviedo.com/project/swans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/project/swans/</guid><description/></item><item><title>Recommendation Letters</title><link>https://www.espinosa-oviedo.com/recommendations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/recommendations/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;strong>Prof. Dr. Mateo Valero&lt;/strong> (&lt;a href="https://drive.google.com/file/d/1-RXVf9Qo04n-N5Yy4QaBaN5L7Xpr-AJX/view?usp=sharing" target="_blank" rel="noopener">pdf&lt;/a>) &lt;br>
 Director, Barcelona Supercomputing Center&lt;br>
