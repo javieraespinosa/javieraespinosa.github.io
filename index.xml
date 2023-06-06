@@ -51,6 +51,12 @@
 &lt;/table></description></item><item><title>Teaching</title><link>https://www.espinosa-oviedo.com/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.espinosa-oviedo.com/teaching/</guid><description>&lt;h3 id="big-data-engineering--analytics">(Big) Data Engineering &amp;amp; Analytics&lt;/h3>
 &lt;table class="table">
 &lt;tr>
+&lt;td data-table-dtype="text">&lt;code>2023&lt;/code>&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://espinosa-oviedo.com/big-data/" target="_blank" rel="noopener">Big Data Engineering&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">CPE Lyon&lt;/td>
+&lt;td data-table-dtype="text">France&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td data-table-dtype="text">&lt;code>2022&lt;/code>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://espinosa-oviedo.com/database-systems/" target="_blank" rel="noopener">Database Systems&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">CPE Lyon&lt;/td>
@@ -422,9 +428,9 @@
 &lt;code>______.________@cpe.fr&lt;/code>&lt;br>
 &lt;code>______.________@liris.cnrs.fr&lt;/code>&lt;/p>
 &lt;p>&lt;strong>CPE Lyon&lt;/strong>&lt;br>
-Bât. Hubert Curien&lt;br>
+Bât. Irène Joliot Curie&lt;br>
 Campus LyonTech-La DOUA&lt;br>
-3 Rue Victor Grignard, 69100 Villeurbanne, France&lt;/p>
+1 rue Enrico Fermi, 69100 Villeurbanne, France&lt;/p>
 &lt;p>&lt;strong>LIRIS Laboratory&lt;/strong> &lt;br>
 Bât. Nautibus&lt;br>
 Campus LyonTech-La DOUA&lt;br>
@@ -575,7 +581,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-367458291" class="chart">&lt;/div>
+&lt;div id="chart-942163857" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -584,7 +590,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-367458291', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-942163857', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
