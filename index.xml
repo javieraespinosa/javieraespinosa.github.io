@@ -108,6 +108,12 @@
 &lt;h3 id="advanced-web-programming">Advanced Web Programming&lt;/h3>
 &lt;table class="table">
 &lt;tr>
+&lt;td data-table-dtype="text">&lt;code>2023&lt;/code>&lt;/td>
+&lt;td data-table-dtype="text">Service Oriented Computing&lt;/td>
+&lt;td data-table-dtype="text">CPE Lyon&lt;/td>
+&lt;td data-table-dtype="text">France&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td data-table-dtype="text">&lt;code>2015&lt;/code>&lt;/td>
 &lt;td data-table-dtype="text">&lt;a href="https://espinosa-oviedo.com/web-programming-and-services/" target="_blank" rel="noopener">Mobile, Network and Web Services programming&lt;/a>&lt;/td>
 &lt;td data-table-dtype="text">IUT2 Grenoble&lt;/td>
@@ -581,7 +587,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-942163857" class="chart">&lt;/div>
+&lt;div id="chart-235748691" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -590,7 +596,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-942163857', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-235748691', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
