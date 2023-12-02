@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-### (Big) Data Engineering & Analytics
+### Data Engineering & Analytics
 
 {{< table path="csv/teaching-data.csv" header="false" caption="" delimiter=";" >}}
 

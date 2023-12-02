@@ -21,28 +21,28 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-# interests:
-# - Big Data
-# - Data Centric Systems
-# - Service & Cloud Computing
-# - Urban Computing
-# - Data Visualization
+interests:
+- Big Data
+- Data Centric Systems
+- Service & Cloud Computing
+- Urban Computing
+- Data Visualization
 
 # Education to show in About widget
-# education:
-#   courses:
-#   - course: PhD in Computer Science
-#     institution: "University of Grenoble, France"
-#     link: http://univ-grenoble-alpes.fr/
-#     year: 2013
-#   - course: MSc in Computer Science
-#     institution: "UDLAP, Mexico"
-#     link: http://udlap.mx/
-#     year: 2008
-#   - course: BE in Computer Systems Engineering
-#     institution: "UDLAP, Mexico"
-#     link: http://udlap.mx/
-#     year: 2006
+education:
+  courses:
+  - course: PhD in Computer Science
+    institution: "University of Grenoble, France"
+    link: http://univ-grenoble-alpes.fr/
+    year: 2013
+  - course: MSc in Computer Science
+    institution: "UDLAP, Mexico"
+    link: http://udlap.mx/
+    year: 2008
+  - course: BEng in Computer Systems
+    institution: "UDLAP, Mexico"
+    link: http://udlap.mx/
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -113,12 +113,10 @@ highlight_name: true
 
 ---
 
-I am a **computer scientist** broadly interested in {{<hl>}}**data-centric systems**{{</hl>}}.
+I am a **computer scientist** broadly interested in the domains of **databases** and **distributed systems**. Specifically, Big Data and data-intensive systems, and their application to data science.
 
-I am an **associate professor** of computer science in the Digital Science department of the [CPE](https://www.cpe.fr/en/) Engineering School, [University of Lyon](https://www.universite-lyon.fr/). At CPE, I am responsible for the Big Data program.
+I am an **associate professor** of computer science in the [CPE](https://www.cpe.fr/en/) Engineering School, [University of Lyon](https://www.universite-lyon.fr/). I am also a scientist of the [LIRIS](https://liris.cnrs.fr/en) lab. At LIRIS, I am member of the **database group** and the DEI committee.
 
-I conduct my research as a member of the **database group** in the [LIRIS](https://liris.cnrs.fr/en) CNRS research lab. At LIRIS, I am also a member of the DEI committee.
-
-I am a former researcher of [TU Delft](http://tudelft.nl), the Spanish [BSC](http://bsc.es), the French-Mexican [LAFMIA](http://lafmia.imag.fr) and [LIG](http://liglab.fr/en) CNRS research labs.
+I am a proud former researcher of [TU Delft](http://tudelft.nl), the [Barcelona Supercomputing Centre](http://bsc.es), the CNRS French-Mexican [LAFMIA](http://lafmia.imag.fr) and [LIG](http://liglab.fr/en) labs.
 
 I am member of the [ACM](http://acm.org) and a fellow of the Mexican [AMEXCOMP](http://amexcomp.org.mx/).
