@@ -72,7 +72,7 @@ social:
 
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1-xHGayDL0V9NZWkR4SwlaWRZmR7n8YCG/view?usp=sharing
+    link: https://drive.google.com/file/d/1f4tIion6zJTAIu-uCWSV8WH8EZr_kw_v/view
 
 
 
