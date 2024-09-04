@@ -6,16 +6,16 @@ title: "Javier Espinosa"
 superuser: true
 
 # Role/position/tagline
-role: "Computer Scientist" # "Associate Professor of </br>Computer Scientist"
+role: "Associate Professor" # "</br>Computer Scientist"
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CPE Engineering School
-  url: "https://www.cpe.fr/en/"
-- name: University of Lyon
-  url: "https://www.universite-lyon.fr/"    
-- name: LIRIS-CNRS lab
-  url: "https://liris.cnrs.fr/en"
+- name: Computer Science Department
+  url: "https://fst-informatique.univ-lyon1.fr"
+- name: University of Lyon 1
+  url: "https://www.univ-lyon1.fr"    
+- name: ERIC Research Lab
+  url: "https://eric.msh-lse.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -113,10 +113,10 @@ highlight_name: true
 
 ---
 
-I am a **computer scientist** broadly interested in the domains of **databases** and **distributed systems**. Specifically, Big Data and data-intensive systems, and their application to data science.
+I am a **computer scientist** broadly interested in the domains of **databases** and **distributed systems**. Specifically, Big Data and data-intensive systems.
 
-I am an **associate professor** of computer science in the [CPE](https://www.cpe.fr/en/) Engineering School, [University of Lyon](https://www.universite-lyon.fr/). I am also a scientist of the [LIRIS](https://liris.cnrs.fr/en) lab. At LIRIS, I am member of the **database group** and the DEI committee.
+I am an **associate professor** of computer science in the [Computer Science Department](https://fst-informatique.univ-lyon1.fr) of [University of Lyon 1](https://www.univ-lyon1.fr). I am also a scientist of the [ERIC](https://eric.msh-lse.fr/en) research lab. At ERIC, I am member of the **database group**.
 
-I am a proud former researcher of [TU Delft](http://tudelft.nl), the [Barcelona Supercomputing Centre](http://bsc.es), the CNRS French-Mexican [LAFMIA](http://lafmia.imag.fr) and [LIG](http://liglab.fr/en) labs.
+I am former researcher of [TU Delft](http://tudelft.nl), the [Barcelona Supercomputing Centre](http://bsc.es), the CNRS French-Mexican [LAFMIA](http://lafmia.imag.fr) lab, and the [LIG](http://liglab.fr/en) and [LIRIS](https://liris.cnrs.fr) labs.
 
 I am member of the [ACM](http://acm.org) and a fellow of the Mexican [AMEXCOMP](http://amexcomp.org.mx/).
