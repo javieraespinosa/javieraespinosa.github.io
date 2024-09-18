@@ -16,15 +16,11 @@ header:
 
 `javier.espinosa`  
 `______.________@acm.org`  
-`______.________@cpe.fr`  
-`______.________@liris.cnrs.fr`  
+`______.________@univ-lyon1.fr`  
 
-**CPE Lyon**   
-Bât. Irène Joliot Curie   
-Campus LyonTech-La DOUA   
-1 rue Enrico Fermi, 69100 Villeurbanne, France   
 
-**LIRIS Laboratory**    
+
+**Computer Science Department**    
 Bât. Nautibus   
 Campus LyonTech-La DOUA   
 25 av. Pierre de Coubertin, 69622 Villeurbanne, France   
