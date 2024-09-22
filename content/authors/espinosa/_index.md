@@ -22,10 +22,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Big Data
 - Data Centric Systems
-- Service & Cloud Computing
-- Urban Computing
+- Big Data
+- Cloud Computing
 - Data Visualization
 
 # Education to show in About widget
@@ -113,10 +112,8 @@ highlight_name: true
 
 ---
 
-I am a **computer scientist** broadly interested in the domains of **databases** and **distributed systems**. Specifically, Big Data and data-intensive systems.
+I am a **computer scientist** broadly interested in the domains of **databases** and **distributed systems**. I work as an **associate professor** in the [Computer Science Department](https://fst-informatique.univ-lyon1.fr/) of the [University of Lyon 1](https://www.univ-lyon1.fr/), and a **research scientist** of the [Information Systems group](https://eric.msh-lse.fr/en/recherche/equipe-sid/) at the [ERIC](https://eric.msh-lse.fr/en) research lab.
 
-I am an **associate professor** of computer science in the [Computer Science Department](https://fst-informatique.univ-lyon1.fr) of [University of Lyon 1](https://www.univ-lyon1.fr). I am also a scientist of the [ERIC](https://eric.msh-lse.fr/en) research lab. At ERIC, I am member of the **database group**.
+I am a former researcher of [TU Delft](http://tudelft.nl), the [Barcelona Supercomputing Centre](http://bsc.es), the joint French-Mexican [LAFMIA](http://lafmia.imag.fr) lab, and the [LIG](http://liglab.fr/en) and [LIRIS](https://liris.cnrs.fr) CNRS labs.
 
-I am former researcher of [TU Delft](http://tudelft.nl), the [Barcelona Supercomputing Centre](http://bsc.es), the CNRS French-Mexican [LAFMIA](http://lafmia.imag.fr) lab, and the [LIG](http://liglab.fr/en) and [LIRIS](https://liris.cnrs.fr) labs.
-
-I am member of the [ACM](http://acm.org) and a fellow of the Mexican [AMEXCOMP](http://amexcomp.org.mx/).
+I am a member of the [ACM](http://acm.org/) and a fellow of the Mexican [AMEXCOMP](http://amexcomp.mx/).
