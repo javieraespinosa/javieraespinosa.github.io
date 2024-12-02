@@ -1,0 +1,32 @@
+{{/* Hugo Blox: Markdown */}}
+{{/* Documentation: https://hugoblox.com/blocks/ */}}
+{{/* License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $title := $block.content.title | emojify | $page.RenderString }}
+
+{{ $text := $block.content.text | emojify | $page.RenderString | safeHTML }}
+
+<!-- <div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center px-6"> -->
+
+<div class="flex flex-col items-center mx-auto">
+
+  <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
+    {{ $title }}
+  </div>
+
+  {{/* We use DIV rather than P to support `prose` class and multiple paragraphs */}}
+  {{ with $text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert max-w-prose">{{ . }}</div>{{ end }}
+  
+  <iframe
+    width="80%"
+    height="480"
+    frameborder="0" 
+    style="border:0"
+    src="https://www.google.com/maps/d/u/0/embed?mid=1mjFAPmXtRuuez1pcv45bxMgTV3X4MhIY"
+    allowfullscreen>
+  </iframe>
+
+</div>
