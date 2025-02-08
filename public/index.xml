@@ -898,7 +898,7 @@ Bât. K, Campus Porte des Alpes        &lt;br&gt;
 
 
 
-&lt;div id=&#34;chart-928315674&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-658423791&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -916,7 +916,7 @@ Bât. K, Campus Porte des Alpes        &lt;br&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-928315674&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-658423791&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
