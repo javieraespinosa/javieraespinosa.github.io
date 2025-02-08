@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IoT | Javier A. Espinosa-Oviedo</title>
-    <link>http://localhost:1313/tags/iot/</link>
-      <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55131/tags/iot/</link>
+      <atom:link href="http://localhost:55131/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <description>IoT</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:55131/media/icon_hu7729264130191091259.png</url>
       <title>IoT</title>
-      <link>http://localhost:1313/tags/iot/</link>
+      <link>http://localhost:55131/tags/iot/</link>
     </image>
     
     <item>
       <title>LINKSIUM-LIG CLOUDING-THINGS</title>
-      <link>http://localhost:1313/project/clouding-things/</link>
+      <link>http://localhost:55131/project/clouding-things/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/clouding-things/</guid>
+      <guid>http://localhost:55131/project/clouding-things/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EU-FP7-IRSES CASES</title>
-      <link>http://localhost:1313/project/cases/</link>
+      <link>http://localhost:55131/project/cases/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/cases/</guid>
+      <guid>http://localhost:55131/project/cases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EU-FP7-IRSES S2EUNET</title>
-      <link>http://localhost:1313/project/s2eunet/</link>
+      <link>http://localhost:55131/project/s2eunet/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/s2eunet/</guid>
+      <guid>http://localhost:55131/project/s2eunet/</guid>
       <description></description>
     </item>
     
