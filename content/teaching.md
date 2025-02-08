@@ -26,8 +26,10 @@ header:
 
 |    |    |    |    |
 |----|----|----|----|
-`2024`	| [Service & Cloud Computing](http://espinosa-oviedo.com/cloud/)	| Univ. Lyon 1	| France
-`2024`	| [Big Data Engineering](https://espinosa-oviedo.com/big-data/)	| Univ. Lyon 1	| France
+`2025`	| [CCI - Data Analytics](http://espinosa-oviedo.com/data-analytics/)	| Univ. Lyon 1	| France
+`2025`	| [CCI - Cloud Computing](http://espinosa-oviedo.com/cloud-cci/)	| Univ. Lyon 1	| France
+`2024`	| [DISS - Service & Cloud Computing](http://espinosa-oviedo.com/cloud/)	| Univ. Lyon 1	| France
+`2024`	| [TIW - Big Data Engineering](https://espinosa-oviedo.com/big-data/)	| Univ. Lyon 1	| France
 `2024`	| [Big Data Engineering](http://vargas-solar.com/bigdata-engineering/)	| CPE Lyon	| France
 `2023`	| [Database Systems](https://espinosa-oviedo.com/database-systems/)	| CPE Lyon	| France
 `2023`	| [Big Data Analytics](https://espinosa-oviedo.com/big-data-analytics/)	| CPE Lyon	| France
