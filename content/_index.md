@@ -16,7 +16,7 @@ sections:
       username: me
       text: |-
 
-        I am an **Associate Professor** (Maître de Conférences) in the **Department of Computer Science** at [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr) and a member of the **Information Systems group** at the [ERIC](https://eric.msh-lse.fr/en) research laboratory. 
+        I am an **Associate Professor** (Maître de Conférences) in the **Department of Computer Science** at [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr) and a member of the **Information Systems group** at the [ERIC](https://eric.univ-lyon2.fr) research laboratory. 
 
         Previously, I was a Lecturer-Researcher at [CPE Lyon](https://www.cpe.fr) and a member of the **Database group** at the [LIRIS](https://liris.cnrs.fr) laboratory. I am also a former researcher at the CONACyT-CNRS [LAFMIA](http://lafmia.imag.fr/) laboratory, the [Barcelona Supercomputing Center](http://bsc.es), the [TU Delft's](http://tudelft.nl) [Center for BOLD Cities](https://www.centre-for-bold-cities.nl), and the [LIG](https://www.liglab.fr) laboratory. 
 
