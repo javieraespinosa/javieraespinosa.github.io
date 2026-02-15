@@ -1,4 +1,4 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
+# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/hugo-theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://discord.gg/z8wNYzb"><img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord"></a>
-  <a href="https://github.com/HugoBlox/theme-academic-cv"><img src="https://img.shields.io/github/stars/HugoBlox/theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/HugoBlox/hugo-theme-academic-cv"><img src="https://img.shields.io/github/stars/HugoBlox/hugo-theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars"></a>
 </p>
 
 ---
@@ -41,7 +41,7 @@ Most CVs are static PDFs that get lost in the pile. This is an **intelligent por
   </a>
 </p>
 
-![HugoBlox Studio in Action](https://raw.githubusercontent.com/HugoBlox/hugo-blox-builder/main/.github/media/studio/slide-1.webp)
+![HugoBlox Studio in Action](https://raw.githubusercontent.com/HugoBlox/kit/main/.github/media/studio/slide-1.webp)
 *HugoBlox Studio: Drag-and-drop page builder inside VS Code.*
 
 > "My citations went up 3x after switching to this template. The citation auto-sync feature is a lifesaver."
@@ -98,7 +98,7 @@ Learn more: docs on [Notebooks](https://docs.hugoblox.com/reference/markdown/#-n
 | Discord Support | Community | Priority |
 
 <p align="center">
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>💎 Upgrade to Pro</b></a><br/>
+  <a href="https://hugoblox.com/pricing?utm_source=github&utm_medium=readme"><b>💎 Upgrade to Pro</b></a><br/>
   <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
   &nbsp;•&nbsp;
   <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
@@ -140,13 +140,13 @@ npx hugoblox create site --template academic-cv
 
 - 💬 [**Discord Community**](https://discord.gg/z8wNYzb)
 - 📚 [**Documentation**](https://docs.hugoblox.com/?utm_source=github&utm_medium=readme)
-- 🐦 [**Follow on X**](https://x.com/BuildLore)
-- ⭐ [**Star on GitHub**](https://github.com/HugoBlox/hugo-blox-builder)
+- 🐦 [**Follow on X**](https://x.com/LoreLabs_)
+- ⭐ [**Star on GitHub**](https://github.com/HugoBlox/kit)
 
 ---
 
 MIT © 2016-Present [George Cushen](https://georgecushen.com)
 
 <!--START_SECTION:news-->
-<!--Updated at 2025-12-21T02:11:09.323Z-->
+<!--Updated at 2026-02-15T01:15:10.134Z-->
 <!--END_SECTION:news-->

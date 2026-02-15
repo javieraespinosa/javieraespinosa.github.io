@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
+summary: ''
 date: 2022-10-24
 type: landing
 
@@ -9,7 +10,6 @@ design:
   spacing: '6rem'
 
 sections:
-
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -22,7 +22,7 @@ sections:
 
         I hold a PhD in Computer Science from the [Université de Grenoble Alpes](https://www.univ-grenoble-alpes.fr), and an MSc and a BS in Computer Science and Computer Systems Engineering, respectively, from Universidad de las Américas Puebla ([UDLAP](https://www.udlap.mx)).
         
-        My primary research areas are **database & distributed systems**.             
+        My primary research areas are **database & distributed systems**.    
 
       # Show a call-to-action button under your biography? (optional)
       # button:
@@ -45,7 +45,7 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded
 
 
   - block: myblox
@@ -53,6 +53,5 @@ sections:
       title: 'Visited Places'
       subtitle: ''
       text: # |-
-
 
 ---
