@@ -51,7 +51,6 @@ sections:
       spacing:
         padding: ["6rem", "0", "4rem", "0"]
 
-
   - block: hero
     content:
       title: ""
@@ -162,6 +161,12 @@ sections:
       text: |-
         Places I have visited over the years
         <br><br>
+
+
+  - block: last-update
+    content:
+      text: "Last update:"
+
 
 
 
