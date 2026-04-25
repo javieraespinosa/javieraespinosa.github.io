@@ -153,7 +153,6 @@ sections:
       columns: '1'
 
 
-
   - block: my-map
     content:
       title: 'Around the Globe'
@@ -161,35 +160,6 @@ sections:
       text: |-
         Places I have visited over the years
         <br><br>
-
-
-  - block: last-update
-    content:
-      text: "Last update:"
-
-
-
-
-  # - block: resume-experience
-  #   content:
-  #     username: espinosa
-  #   design:
-  #     # Hugo date format
-  #     date_format: '2006'
-  #     # Education or Experience section first?
-  #     is_education_first: true
-  # - block: resume-skills
-  #   content:
-  #     title: Skills & Hobbies
-  #     username: me
-  # - block: resume-awards
-  #   content:
-  #     title: Awards
-  #     username: me
-  # - block: resume-languages
-  #   content:
-  #     title: Languages
-  #     username: me
 
 
 ---
