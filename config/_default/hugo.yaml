@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://espinosa-oviedo.com/'
+baseURL: 'https://www.espinosa-oviedo.com/'
 
 ############################
 ## LANGUAGE
@@ -16,16 +16,6 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-############################
-## PAGE OPTIONS
-############################
-
-cascade:
-  - _target:
-      path: /slides/**
-      kind: page
-    outputs: [HTML, present]
 
 ############################
 ## ADVANCED

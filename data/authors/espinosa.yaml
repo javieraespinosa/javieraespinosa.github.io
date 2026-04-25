@@ -1,0 +1,161 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: "Javier A. Espinosa-Oviedo"
+  given: "Javier A."
+  family: "Espinosa-Oviedo"
+  alternate: ""
+  pronunciation: ""
+  # pronouns: "he/him"
+postnominals:
+  - PhD
+status:
+  icon: null
+role: "Associate Professor in Data Systems"
+bio: >
+  **Department of Computer Science** </br>    
+  <a href="https://www.univ-lyon1.fr/" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+    Université Lyon 1
+  </a> </br>
+  <a href="https://eric.univ-lyon2.fr/" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+    ERIC lab
+  </a>
+
+affiliations:
+  - name: " University Lyon 1"
+    url: "https://www.univ-lyon1.fr/"
+  - name: "ERIC Research Lab"
+    url: "https://eric.univ-lyon2.fr"
+
+links:
+  - icon: "at-symbol"
+    url: "/#contact"
+    label: "E-mail Me"
+  - icon: "brands/github"
+    url: "https://github.com/javieraespinosa"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/javieraespinosa/"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.co.uk/citations?user=RkXsr4YAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-4015-195X"
+
+interests:
+  - "Large-Scale Data Analytics"
+  - "Cloud Computing"
+
+education:
+  - degree: PhD in Computer Science
+    institution: University of Grenoble-Alpes ・ France
+    start: 2009-01-01
+    end: 2013-12-30
+    # summary: |
+    #   Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+    # button:
+    #   text: Download dissertation
+    #   url: /resume.pdf
+    #   icon: hero/arrow-down-tray
+
+  - degree: MS in Computer Science
+    institution: Universidad de las Américas, Puebla ・ Mexico
+    start: 2006-01-01
+    end: 2008-12-30
+
+  - degree: BE in Computer Systems Engineering
+    institution: Universidad de las Américas, Puebla ・ Mexico
+    start: 2001-01-01
+    end: 2006-12-30
+
+
+experience:
+
+  - role: Associate Professor
+    org: CPE Lyon ・ France
+    start: 2022-01-01
+    end: 2024-12-31
+    summary: ''
+    # button:
+    #   text: View portfolio
+    #   url: /
+    #   icon: hero/arrow-down-tray
+
+
+  - role: Senior Research Engineer
+    org: University of Lyon ・ France
+    start: 2019-01-01
+    end: 2021-12-31
+    summary: 
+      
+
+  - role: Postdoctoral Researcher
+    org: Delft University of Technology ・ The Netherlands
+    start: 2018-01-01
+    end: 2019-12-31
+    summary: #|
+      # * Researcher ・ Leiden-Delft-Erasmus (LDE) Centre for Bold Cities
+      # * Member ・ Faculty of Architecture & the Built Environment
+
+  - role: Postdoctoral Researcher
+    org: Barcelona Supercomputing Centre ・ Spain
+    start: 2015-01-01
+    end: 2017-12-31
+    summary: #|
+      # * Researcher ・ Extreme Computing Group ・ Computer Science Department
+      
+  - role: Postdoctoral Researcher 
+    org: Laboratoire Franco-Mexicain d'Informatique et d'Automatique (LAFMIA) ・ France-Mexico
+    start: 2013-01-01
+    end: 2015-12-31
+    # summary: |
+    #   * In France, I was a member of the **HADAS Database Group** @ LIG 
+    #   * In Mexico, I was a member of the **Database Group** @ UDLAP
+      
+  - role: PhD Candidate
+    org: Laboratoire d'Informatique de Grenoble (LIG) ・ France
+    start: 2009-01-01
+    end: 2013-12-31
+    # summary: |
+    #   * In France, I was a member of the **HADAS Database Group** @ LIG 
+    #   * In Mexico, I was a member of the **Database Group** @ UDLAP
+
+
+
+
+
+
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: Python
+#         level: 5
+#       - label: Machine Learning
+#         level: 5
+#       - label: Cloud Computing
+#         level: 4
+#   - name: Research & Communication
+#     items:
+#       - label: Academic Writing
+#         level: 5
+#       - label: Conference Presentations
+#         level: 4
+#       - label: Grant Proposals
+#         level: 4
+
+# languages:
+#   - name: Spanish
+#     level: 5
+#     label: Native
+#   - name: English
+#     level: 4
+#     label: Fluent
+#   - name: French
+#     level: 4
+#     label: Fluent
+
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
