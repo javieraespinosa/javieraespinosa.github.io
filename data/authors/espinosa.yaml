@@ -48,8 +48,8 @@ interests:
 education:
   - degree: PhD in Computer Science
     institution: University of Grenoble-Alpes ・ France
-    start: 2009-01-01
-    end: 2013-12-30
+    start: 2009-02-15
+    end: 2013-10-28
     # summary: |
     #   Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     # button:
@@ -59,53 +59,62 @@ education:
 
   - degree: MS in Computer Science
     institution: Universidad de las Américas, Puebla ・ Mexico
-    start: 2006-01-01
-    end: 2008-12-30
+    start: 2006-08-01
+    end: 2008-12-19
 
   - degree: BE in Computer Systems Engineering
     institution: Universidad de las Américas, Puebla ・ Mexico
-    start: 2001-01-01
-    end: 2006-12-30
+    start: 2001-08-01
+    end: 2006-07-14
 
 
 experience:
 
-  - role: Associate Professor
-    org: CPE Lyon ・ France
-    start: 2022-01-01
-    end: 2024-12-31
-    summary: ''
+  - role: Maître de Conférences (Associate Professor, tenured)
+    org: Université Lyon 1 ・ France
+    start: 2024-09-01
+    end: 
+    summary: |-
+      * Researcher in the **Information Systems group**      
+      Laboratoire d'Entrepôts, Représentation et Ingénierie des Connaissances (ERIC)
     # button:
     #   text: View portfolio
     #   url: /
     #   icon: hero/arrow-down-tray
 
+  - role: Associate Professor
+    org: CPE Lyon ・ France
+    start: 2022-02-01
+    end: 2024-08-31
+    summary: |-
+      * Researcher in the **Database group**    
+      Laboratoire d'Informatique en Image et Systèmes d'information (LIRIS UMR CNRS)
 
   - role: Senior Research Engineer
     org: University of Lyon ・ France
-    start: 2019-01-01
-    end: 2021-12-31
+    start: 2019-09-01
+    end: 2021-07-01
     summary: 
       
 
   - role: Postdoctoral Researcher
     org: Delft University of Technology ・ The Netherlands
-    start: 2018-01-01
-    end: 2019-12-31
+    start: 2018-09-01
+    end: 2019-09-01
     summary: #|
       # * Researcher ・ Leiden-Delft-Erasmus (LDE) Centre for Bold Cities
       # * Member ・ Faculty of Architecture & the Built Environment
 
   - role: Postdoctoral Researcher
     org: Barcelona Supercomputing Centre ・ Spain
-    start: 2015-01-01
+    start: 2016-01-01
     end: 2017-12-31
     summary: #|
       # * Researcher ・ Extreme Computing Group ・ Computer Science Department
       
   - role: Postdoctoral Researcher 
     org: Laboratoire Franco-Mexicain d'Informatique et d'Automatique (LAFMIA) ・ France-Mexico
-    start: 2013-01-01
+    start: 2013-11-01
     end: 2015-12-31
     # summary: |
     #   * In France, I was a member of the **HADAS Database Group** @ LIG 
@@ -113,8 +122,8 @@ experience:
       
   - role: PhD Candidate
     org: Laboratoire d'Informatique de Grenoble (LIG) ・ France
-    start: 2009-01-01
-    end: 2013-12-31
+    start: 2009-02-01
+    end: 2013-10-28
     # summary: |
     #   * In France, I was a member of the **HADAS Database Group** @ LIG 
     #   * In Mexico, I was a member of the **Database Group** @ UDLAP
@@ -153,9 +162,29 @@ experience:
 #     level: 4
 #     label: Fluent
 
-# awards:
-#   - title: Best Paper Award
-#     awarder: NeurIPS
-#     date: "2022-12-01"
-#     summary: Awarded for groundbreaking work on efficient training of large models.
-#     icon: hero/trophy
+awards:
+  - title: CONACyT Postdoctoral Fellowship
+    awarder: Mexican National Council of Science and Technology (CONACyT)
+    date: "2015-01-01"
+    summary: Highly competitive international fellowship awarded to conduct postdoctoral research activities on data-intensive architectures at the Barcelona Supercomputing Center (BSC), Spain.
+    icon: hero/academic-cap
+
+  - title: CONACyT PhD Scholarship
+    awarder: Mexican National Council of Science and Technology (CONACyT)
+    date_start: "2019-01-01"
+    date: "2009-01-01"
+    summary: Competitive full international scholarship awarded to pursue a PhD in Computer Science at Université Grenoble Alpes, France.
+    icon: hero/academic-cap
+
+  - title: CONACyT International Mobility Grant
+    awarder: Mexican National Council of Science and Technology (CONACyT)
+    date_start: "2019-01-01"
+    date: "2007-01-01"
+    summary: Grant awarded to support an international research internship during 11 months at the Laboratoire d’Informatique de Grenoble (LIG), France. 
+    icon: hero/currency-euro
+
+  - title: CONACyT MS Scholarship
+    awarder: Mexican National Council of Science and Technology (CONACyT)
+    date: "2006-01-01"
+    summary: Merit-based national scholarship awarded to complete a Master’s degree in Computer Science at Universidad de las Américas Puebla (UDLAP), Mexico.
+    icon: hero/academic-cap

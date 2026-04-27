@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Resume'
 summary: ''
 date: 2022-10-24
 type: landing
@@ -15,18 +15,19 @@ sections:
     content:
       username: espinosa
     design:
-      # Hugo date format
-      date_format: '2006'
-      # Education or Experience section first?
+      date_format: 'Jan 2006'
       is_education_first: false
+
+  - block: resume-awards
+    content:
+      title: Awards
+      username: espinosa
+    design:
+      date_format: '2006'      
 
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies
-  #     username: me
-  # - block: resume-awards
-  #   content:
-  #     title: Awards
   #     username: me
 
   # - block: resume-languages

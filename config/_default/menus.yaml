@@ -6,6 +6,9 @@ main:
   - name: About
     url: '/#about'
     weight: 10
+  - name: Resume
+    url: '/resume'
+    weight: 11    
   - name: Projects
     url: '/projects'
     weight: 20

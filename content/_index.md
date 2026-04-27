@@ -35,8 +35,8 @@ sections:
         #   url:  "#about"
         #   icon: arrow-down
         # - text: Resume
-        #   url: "#experience"
-          # icon: arrow-down          
+        #   url: "/resume"
+        #   icon: bars-4          
         # - text: Get In Touch
         #   url: "#contact"
         #   icon: envelope      
@@ -100,11 +100,9 @@ sections:
         `2025` | [Big Data Engineering](https://espinosa-oviedo.com/big-data/)	| M2 TIW	| Univ. Lyon 1 | 
         `2025` | [Service & Cloud Computing](https://espinosa-oviedo.com/cloud/)	| M2 DISS	| Univ. Lyon 1 | 
 
-        {{< button url="/courses" icon="academic-cap" style="ghost" align="center">}}all courses{{< /button >}}
+        {{< button url="/courses" icon="academic-cap" style="ghost" align="center">}}see past courses{{< /button >}}
     design:
       columns: '1'
-
-
 
 
   - block: markdown
@@ -120,9 +118,6 @@ sections:
         * [ORCID](https://orcid.org/0000-0002-4015-195X)
     design:
       columns: '1'
-
-
-
 
 
   - block: markdown
